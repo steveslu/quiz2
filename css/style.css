@@ -1,0 +1,23 @@
+#inputs{
+	border-style:solid;
+	border-color:black;
+	border-width:0.5px;
+	background-color:lightblue;
+	width:50%;
+	text-align:center;
+	color: black;
+	   
+    display: inline-block;
+    text-align: center;
+   
+}
+
+body{
+		background-color:azure;
+		text-align:center;
+}
+
+form {
+    display: inline-block;
+    text-align: center;
+}
